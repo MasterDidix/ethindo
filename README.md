@@ -1,0 +1,2 @@
+# ethindo
+Scrip untuk ethindo
